@@ -42,6 +42,7 @@ import profile_img from './profile_img.png'
 import profile_img2 from './profile_img2.png'
 import profile_img3 from './profile_img3.png'
 import lesson_icon from './lesson_icon.svg'
+import skillmorph from './Skillmorph.svg'
 
 
 export const assets = {
@@ -88,7 +89,8 @@ export const assets = {
     profile_img3,
     play_icon,
     blue_tick_icon,
-    lesson_icon
+    lesson_icon,
+    skillmorph
 }
 
 export const dummyEducatorData = {
@@ -107,21 +109,21 @@ export const dummyTestimonial = [
         role: 'SWE 1 @ Amazon',
         image: assets.profile_img_1,
         rating: 5,
-        feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
+        feedback: 'SkillMorph has completely changed the way I approach learning. The courses are structured in a very organized manner, and the video lessons are easy to follow. I especially love the interactive quizzes and exercises—they really help me retain what I’ve learned. The platform is user-friendly, and I can track my progress seamlessly. I feel more confident in my skills now than ever before.',
     },
     {
         name: 'Richard Nelson',
         role: 'SWE 2 @ Samsung',
         image: assets.profile_img_2,
         rating: 4,
-        feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
+        feedback: 'I’ve tried a few online learning platforms, but SkillMorph stands out. The lessons are practical, with real-world examples that make concepts easy to understand. I like that I can learn at my own pace and revisit topics whenever I need. The only thing I wish for is more project-based exercises, but overall, it’s an amazing resource for skill development.',
     },
     {
         name: 'James Washington',
         role: 'SWE 2 @ Google',
         image: assets.profile_img_3,
         rating: 4.5,
-        feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
+        feedback: 'SkillMorph makes learning fun and interactive. The platform offers a wide range of courses, and I’ve been able to improve my coding and problem-solving skills significantly. The progress tracking feature keeps me motivated, and the explanations in the video lessons are very clear. I highly recommend SkillMorph to anyone looking to enhance their skills efficiently.',
     },
 ];
 
